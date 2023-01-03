@@ -10,6 +10,9 @@ p{
 }
 .header{
     background-image: url(love.jpg);
+    background-position:100%;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 menu{
     /* background-color: chocolate; */
